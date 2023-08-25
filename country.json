@@ -1,0 +1,30 @@
+[
+  {
+    "name": "India",
+    "id": "ind",
+    "states": [
+      { "name": "MP", "id": 1 },
+      { "name": "TN", "id": 2 },
+      { "name": "UP", "id": 3 },
+      { "name": "KARNATAKA", "id": 4 }
+    ]
+  },
+  {
+    "name": "Germany",
+    "id": "ger",
+    "states": [
+      { "name": "Har", "id": 1 },
+      { "name": "Ber", "id": 2 },
+      { "name": "Des", "id": 3 },
+      { "name": "Fra", "id": 4 }
+    ]
+  },
+  {
+    "name": "UK",
+    "id": "uk",
+    "states": [
+      { "name": "Eng", "id": 1 },
+      { "name": "SID", "id": 2 }
+    ]
+  }
+]
